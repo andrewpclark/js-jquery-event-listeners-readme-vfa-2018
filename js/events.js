@@ -27,10 +27,8 @@ function submitIt(){
 }
 
 $("#typing").ready(function(){
-
 // call functions here
 getIt();
 frameIt();
 pressIt();
-
 });
